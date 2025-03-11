@@ -3,9 +3,9 @@
 int main()
 {
 
-std::string name;
+std::string name:
 
-std::cout<<"Enter your name:";
+std::cout<<"Enter your name: ";
 
 std::cin>>name;
 
